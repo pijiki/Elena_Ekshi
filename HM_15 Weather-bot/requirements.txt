@@ -1,0 +1,6 @@
+pip==23.1.2
+psycopg2==2.9.6
+setuptools==67.7.2
+
+aiogram~=2.25.1
+requests~=2.30.0
